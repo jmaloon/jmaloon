@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jmaloon
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning how to make the web accessible for everyone
+- 👋 hi, I’m @jmaloon
+- 👀 i’m interested in frontend development and ux engineering
+- 🌱 i’m currently learning how to make the web accessible for everyone
 <!--
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
